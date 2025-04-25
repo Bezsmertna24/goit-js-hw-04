@@ -7,7 +7,7 @@ changeUsername(newName) {
 },
     
 updatePlayTime(hours) {
-    this.totalTime += hours;
+    this.playTime += hours;
 },
 
 getInfo() {
